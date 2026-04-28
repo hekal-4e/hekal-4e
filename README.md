@@ -17,23 +17,18 @@
 
 ## 👨‍💻 About Me
 
-```kotlin
-data class Developer(
-    val name: String = "Mahmoud Hassan",
-    val alias: String = "Hekal",
-    val role: String = "Android Developer",
-    val location: String = "Giza, Egypt 🇪🇬",
-    val education: String = "B.Sc. Computer Science @ Thebes Academy (2026)",
-    val focus: List<String> = listOf(
-        "Kotlin-first Android Development",
-        "Jetpack Compose & Modern UI",
-        "Clean Architecture & SOLID Principles",
-        "Coroutines & Kotlin Flows"
-    ),
-    val currentlyLearning: String = "Kotlin Multiplatform (KMP)",
-    val funFact: String = "I use Obsidian to organize everything — including my thoughts 🧠"
-)
-```
+I am **Mahmoud Hassan**, also known as **Hekal**, an aspiring Android Developer with a strong focus on **Kotlin-first development**. Currently pursuing a B.Sc. in Computer Science at Thebes Academy (graduating 2026), I am passionate about crafting robust and scalable mobile applications. My expertise lies in modern Android technologies, including Jetpack Compose, Coroutines, and Kotlin Flows, all while adhering to Clean Architecture and SOLID Principles.
+
+- **Role**: Android Developer
+- **Location**: Giza, Egypt 🇪🇬
+- **Education**: B.Sc. Computer Science @ Thebes Academy (2026)
+- **Key Focus Areas**:
+  - Kotlin-first Android Development
+  - Jetpack Compose & Modern UI
+  - Clean Architecture & SOLID Principles
+  - Coroutines & Kotlin Flows
+- **Currently Learning**: Kotlin Multiplatform (KMP)
+- **Fun Fact**: I leverage Obsidian for comprehensive organization and thought management 🧠.
 
 ---
 
@@ -97,17 +92,12 @@ data class Developer(
 
 <div align="center">
 
-| 🏢 JobVerse | 📰 Veris |
-|:---:|:---:|
-| **Job Search Mobile Application** | **Advanced Android News Application** |
-| Kotlin · Jetpack Compose · Firebase · MVVM · Coroutines | MVVM · Room · Retrofit · Coroutines · LiveData |
-| Full-featured job search platform with Firebase backend. Built user profile creation, editing & settings with Coroutines for async ops and MVVM for clean separation of concerns. | News app with offline-first architecture. Room for local caching, Retrofit for remote data, debounced search, swipe-to-delete with undo, and smooth loading states. |
-
-| ✅ Android Task Manager | 📚 Book Store App |
-|:---:|:---:|
-| **Native Android Application** | **Flutter Application** |
-| Kotlin · Java · RecyclerView · BroadcastReceiver · Notifications | Flutter · Dart · UI/UX Design |
-| Native task management app with full CRUD, local notifications via BroadcastReceiver + NotificationCompat, DiffUtil for efficient list updates, and robust PendingIntent handling for older Android versions. | Clean & intuitive bookstore UI with book search, shopping cart, categorized listings, and smooth navigation — optimized for performance and engagement. |
+| Project Name | Description | Technologies |
+|:---:|:---:|:---:|
+| **JobVerse** | A full-featured job search mobile application with a Firebase backend. Implemented user profile creation, editing, and settings with Coroutines for asynchronous operations and MVVM for clean separation of concerns. | Kotlin, Jetpack Compose, Firebase, MVVM, Coroutines |
+| **Veris** | An advanced Android news application featuring an offline-first architecture. Utilizes Room for local caching, Retrofit for remote data fetching, debounced search functionality, swipe-to-delete with undo, and smooth loading states for an enhanced user experience. | MVVM, Room, Retrofit, Coroutines, LiveData |
+| **Android Task Manager** | A native Android task management application offering full CRUD (Create, Read, Update, Delete) operations. Includes local notifications via BroadcastReceiver and NotificationCompat, DiffUtil for efficient list updates, and robust PendingIntent handling for compatibility across Android versions. | Kotlin, Java, RecyclerView, BroadcastReceiver, Notifications |
+| **Book Store App** | A Flutter-based application showcasing a clean and intuitive bookstore UI. Features include book search, a shopping cart, categorized listings, and smooth navigation, all optimized for performance and user engagement. | Flutter, Dart, UI/UX Design |
 
 </div>
 
@@ -132,20 +122,18 @@ data class Developer(
 
 ## 🏆 Achievements & Certifications
 
-```
-🏅  Mobile Developer Trainee @ DEPI                    — November 2024
-🎓  The Chance Course (70% completed)                  — October 2024
-📜  Flutter App Development Certificate (MASA)         — September 2023
-```
+- **Mobile Developer Trainee @ DEPI** — November 2024
+- **The Chance Course** (70% completed) — October 2024
+- **Flutter App Development Certificate** (MASA) — September 2023
 
 ---
 
 ## 📈 Currently Working On
 
-- 🔭 Deepening expertise in **Kotlin Coroutines & Flows** for reactive Android architecture
-- 🌱 Exploring **Kotlin Multiplatform (KMP)** for cross-platform development
-- ✍️ Creating technical content on **LinkedIn** for the Android community
-- 💡 Building more open-source Android projects
+- 🔭 Deepening expertise in **Kotlin Coroutines & Flows** for reactive Android architecture.
+- 🌱 Exploring **Kotlin Multiplatform (KMP)** for cross-platform development.
+- ✍️ Creating technical content on **LinkedIn** for the Android community.
+- 💡 Building more open-source Android projects.
 
 ---
 
@@ -154,7 +142,7 @@ data class Developer(
 ### 🤝 Let's Build Something Together
 
 [![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-hekal.tech-6EE7F7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hekal.tech)
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahmoud-hassan6)
+[![LinkedIn](https://img.shields.io/badge/Let\'s_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahmoud-hassan6)
 [![Email](https://img.shields.io/badge/Send_an_Email-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahhassan8k@gmail.com)
 
 <br/>
@@ -166,3 +154,5 @@ data class Developer(
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
+
+
