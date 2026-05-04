@@ -117,7 +117,7 @@ data class Developer(
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hekal-4e&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hekal-4e&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&cache_seconds=86400"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hekal-4e&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 
 </div>
