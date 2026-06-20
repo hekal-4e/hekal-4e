@@ -72,13 +72,6 @@ data class Developer(
 ![Storage](https://img.shields.io/badge/Firebase_Storage-Files-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Realtime DB](https://img.shields.io/badge/Realtime_DB-Sync-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-### 🤖 Machine Learning & Edge AI
-![PyTorch](https://img.shields.io/badge/PyTorch-Training-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow Lite](https://img.shields.io/badge/TensorFlow_Lite-Edge_Inference-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Transformer](https://img.shields.io/badge/Transformer-Architecture-FF6F61?style=flat-square&logo=huggingface&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-Object_Detection-00FFFF?style=flat-square&logoColor=black)
-![Quantization](https://img.shields.io/badge/INT8-Quantization-512BD4?style=flat-square)
-
 ### 🌐 Networking & APIs
 ![Retrofit](https://img.shields.io/badge/Retrofit-HTTP-48B983?style=flat-square&logo=square&logoColor=white)
 ![OkHttp](https://img.shields.io/badge/OkHttp-Client-48B983?style=flat-square&logo=square&logoColor=white)
