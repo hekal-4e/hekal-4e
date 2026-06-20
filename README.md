@@ -47,6 +47,7 @@ data class Developer(
 [![Dart](https://skillicons.dev/icons?i=dart)](https://dart.dev)
 [![Flutter](https://skillicons.dev/icons?i=flutter)](https://flutter.dev)
 [![Cpp](https://skillicons.dev/icons?i=cpp)](https://isocpp.org)
+[![Python](https://skillicons.dev/icons?i=python)](https://python.org)
 
 ### 🏗️ Architecture & Patterns
 ![MVVM](https://img.shields.io/badge/MVVM-Architecture-6EE7F7?style=flat-square&logo=android&logoColor=white)
@@ -70,6 +71,13 @@ data class Developer(
 ![Auth](https://img.shields.io/badge/Firebase_Auth-Security-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Storage](https://img.shields.io/badge/Firebase_Storage-Files-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Realtime DB](https://img.shields.io/badge/Realtime_DB-Sync-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+### 🤖 Machine Learning & Edge AI
+![PyTorch](https://img.shields.io/badge/PyTorch-Training-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow Lite](https://img.shields.io/badge/TensorFlow_Lite-Edge_Inference-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Transformer](https://img.shields.io/badge/Transformer-Architecture-FF6F61?style=flat-square&logo=huggingface&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-Object_Detection-00FFFF?style=flat-square&logoColor=black)
+![Quantization](https://img.shields.io/badge/INT8-Quantization-512BD4?style=flat-square)
 
 ### 🌐 Networking & APIs
 ![Retrofit](https://img.shields.io/badge/Retrofit-HTTP-48B983?style=flat-square&logo=square&logoColor=white)
@@ -96,6 +104,33 @@ data class Developer(
 ## 🚀 Featured Projects
 
 <div align="center">
+
+<table>
+<tr>
+<td align="center" width="100%">
+
+### 🅿️ Omni Parking
+<sub>🎓 Graduation Project · 2025–2026</sub>
+
+**End-to-End Smart Parking System — On-Device Egyptian License Plate Recognition**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TFLite](https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logoColor=black)
+![Transformer](https://img.shields.io/badge/Transformer-FF6F61?style=flat-square)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
+My role on this graduation project was building the **entire ML pipeline**: a custom **PlateSlotTransformer** OCR model that reformulates plate recognition as structured slot prediction instead of sequence decoding — achieving **93.27% exact-match accuracy** on a locked real-world test set, deployed on-device at just **7.78 MB** via INT8-quantized TFLite. Integrated into a full Flutter parking app with YOLO-based plate localization, offline-first SQLite persistence, and QR ticketing.
+
+📊 **93.27%** accuracy · **+18.07pp** over baseline · **7.78 MB** edge model
+
+[📖 Case Study](https://hekal.tech/projects/omni-parking) · [💻 Source Code](https://github.com/hekal-4e/egyptian-license-plate-detector)
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 | 🏢 JobVerse | 📰 Veris |
 |:---:|:---:|
